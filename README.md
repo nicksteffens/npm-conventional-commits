@@ -1,3 +1,20 @@
+# npm-conventional-commits
+
+Starter template with npm, husky, and conventional commits.
+
+## Use This Template
+
+**GitHub UI:** Click "Use this template" button above
+
+**CLI:**
+```bash
+gh repo create my-new-project --template nicksteffens/npm-conventional-commits --clone
+cd my-new-project
+npm install
+```
+
+---
+
 # Project Name
 
 ## Setup
